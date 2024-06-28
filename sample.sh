@@ -11,12 +11,12 @@ mkdir website
 
 cd website
 
-wget https://www.tooplate.com/zip-templates/2103_central.zip
+wget https://www.tooplate.com/zip-templates/2132_clean_work.zip
+
  
+unzip 2132_clean_work.zip
 
-unzip 2103_central.zip
-
-sudo cp -r 2103_central/* /var/www/html
+sudo cp -r 2132_clean_work/* /var/www/html
 
 cd ..
 
